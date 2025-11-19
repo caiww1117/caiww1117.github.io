@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Polarized Ni0-Niδ+ Catalysts Enable Asymmetric C–C Coupling for Long-Chain Hydrocarbons in Electrochemical CO2 Reduction"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
