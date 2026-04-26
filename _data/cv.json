@@ -1,152 +1,113 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Wenwei Cai (蔡文炜)",
+    "email": "wenweicai@stu.pku.edu.cn",
+    "phone": "+86 187-2781-7739",
+    "website": "",
+    "summary": "Postgraduate student at Peking University, majoring in Materials Physics and Chemistry. Familiar with DFT and proficient in VASP, Quantum ESPRESSO, and Gaussian. Passionate about leveraging first-principles calculations and AI for energy materials research.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Shenzhen",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?hl=zh-CN&user=6uOQr6AAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "caiww1117",
+        "url": "https://github.com/caiww1117"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Hongkong University of Science and Technology",
+      "area": "PhD in Chemistry (Scientific Computation)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2026",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Peking University",
+      "area": "Master in Materials Physics and Chemistry",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2023",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Wuhan University of Technology",
+      "area": "Bachelor of Engineering in Materials Science and Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2019",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
-  "interests": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "IELTS 8.0"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computational Chemistry"
+    },
+    {
+      "name": "Computational Materials Science"
+    },
+    {
+      "name": "AI for Materials Discovery"
+    },
+    {
+      "name": "CO₂ Reduction Reaction"
+    },
+    {
+      "name": "Renewable Battery"
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Polyphosphates-Based Cathode-Electrolyte Interphase for 4.65 V LiCoO₂",
+      "publisher": "Advanced Materials",
+      "releaseDate": "2026-04-16",
+      "website": "https://doi.org/10.1002/adma.73065",
+      "summary": "Developing polyphosphates-based cathode-electrolyte interphase for high-voltage LiCoO₂ cathodes."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Polarized Ni⁰-Niδ⁺ Catalysts Enable Asymmetric C–C Coupling for Long-Chain Hydrocarbons in Electrochemical CO₂ Reduction",
+      "publisher": "ACS Catalysis",
+      "releaseDate": "2025-05-27",
+      "website": "https://doi.org/10.1021/acscatal.4c07353",
+      "summary": "AIMD simulations investigating Ni⁰-Niδ⁺-mediated C−C coupling mechanisms for long-chain hydrocarbons eCO₂RR."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Confined proton transport in water-containing layered manganese oxide electrodes",
+      "publisher": "Chinese Journal of Structural Chemistry",
+      "releaseDate": "2025-01-22",
+      "website": "https://doi.org/10.1016/j.cjsc.2025.100528",
+      "summary": "AIMD simulations study on proton transportation in δ-MnO₂."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
