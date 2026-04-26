@@ -22,7 +22,6 @@ I am proficient in using VASP, Quantum ESPRESSO, and Gaussian for first-principl
 
 **Contact:**
 - Email: wenweicai@stu.pku.edu.cn
-- Phone: +(86) 187-2781-7739
 - Location: Shenzhen, China
 - Google Scholar: [My Profile](https://scholar.google.com/citations?hl=zh-CN&user=6uOQr6AAAAAJ)
 - GitHub: [caiww1117](https://github.com/caiww1117)
