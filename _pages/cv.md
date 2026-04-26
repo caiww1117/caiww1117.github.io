@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Peking University, School of Advanced Materials, 2023 Sep. – Now
-  * Ph.D. Student in Materials Physics and Chemistry (GPA: 3.44/4, Top 30%)
+  * Ph.D. Student in Materials Physics and Chemistry
   * Director of the Propaganda Department of the Graduate Student Union (1 year)
 * Wuhan University of Technology, School of Materials Science and Engineering, 2019 Sep. – 2023 Jun.
-  * B.Eng. in Materials Science and Engineering (GPA: 90.63/100, Top 10%)
+  * B.Eng. in Materials Science and Engineering
 
 Research Experience
 ======
