@@ -25,11 +25,11 @@ author:
   avatar           : "profile-image-adjust.png"
   name             : "Wenwei Cai"
   pronouns         : he/him # example: "she/her"  
-  bio              : "Postgraduate student at Peking University, joining HKUST for PhD in 2026"
-  location         : "Shenzhen, China"
-  employer         : "Shenzhen Graduate School, Peking University"
+  bio              : "PhD student in Chemistry (Scientific Computation) at HKUST"
+  location         : "Hong Kong, China"
+  employer         : "Department of Chemistry, HKUST"
   uri              : # URL
-  email            : "wenweicai@stu.pku.edu.cn" 
+  email            : "wcaiat@connect.ust.hk"
 
   # Academic websites
   academia         : # URL

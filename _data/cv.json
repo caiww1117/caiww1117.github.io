@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Wenwei Cai (蔡文炜)",
-    "email": "wenweicai@stu.pku.edu.cn",
-    "website": "",
-    "summary": "Postgraduate student at Peking University, majoring in Materials Physics and Chemistry. Familiar with DFT and proficient in VASP, Quantum ESPRESSO, and Gaussian. Passionate about leveraging first-principles calculations and AI for energy materials research.",
+    "email": "wcaiat@connect.ust.hk",
+    "website": "https://caiww1117.github.io/",
+    "summary": "PhD student in the Department of Chemistry at HKUST, working with Prof. Lixue Cheng on AI for energy materials. My research combines first-principles calculations, molecular dynamics, literature mining, and LLM-based multi-agent systems for electrolyte design and materials discovery.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Shenzhen",
+      "city": "Hong Kong",
       "countryCode": "CN",
       "region": ""
     },
@@ -22,25 +22,76 @@
         "username": "caiww1117",
         "url": "https://github.com/caiww1117"
       }
-    ]
+    ],
+    "label": "PhD Student in Chemistry (Scientific Computation)"
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Multi-Agent Electrolyte Design via Literature-Grounded Reasoning and Iterative Optimization",
+      "company": "Supervisor: Prof. Lixue Cheng",
+      "startDate": "2025-11",
+      "endDate": "Present",
+      "summary": "Developed an LLM-based platform for lithium battery electrolyte formulation design.",
+      "highlights": [
+        "Coordinated expert agents with LangGraph to propose, critique, and refine formulations under user-defined constraints.",
+        "Implemented hierarchical retrieval-augmented generation with FAISS, source tracking, and agent-specific literature access.",
+        "Designed an ionic-liquid bridge agent to translate coordination chemistry and ion-transport evidence into formulation guidance.",
+        "Built persistent task memory and a React–FastAPI application for interactive design and literature questions."
+      ]
+    },
+    {
+      "position": "AI-Driven Discovery of High-Performance Solid-State Electrolytes",
+      "company": "",
+      "startDate": "2025-01",
+      "endDate": "Present",
+      "summary": "Built a literature-based knowledge base and began developing a generative design framework for solid-state electrolytes.",
+      "highlights": [
+        "Fine-tuned DeBERTa v3 to classify approximately 115,000 papers and identify 17,000 relevant articles.",
+        "Used Gemini 2.5 Pro to extract 97,000 material-property records and standardize formulas and units.",
+        "Developing multi-objective optimization with generative and surrogate models."
+      ]
+    },
+    {
+      "position": "Polarized Ni⁰-Niδ⁺ Catalysts for CO₂ Electroreduction",
+      "company": "Supervisor: Prof. Feng Pan",
+      "startDate": "2024-04",
+      "endDate": "2025-05",
+      "summary": "Used full-solvent AIMD and the slow-growth approach to investigate C–C coupling at partially polarized nickel and extend mechanistic insights to other metals.",
+      "highlights": []
+    },
+    {
+      "position": "Confined Proton Transport in Layered Manganese Oxide Electrodes",
+      "company": "Supervisor: Prof. Feng Pan",
+      "startDate": "2023-12",
+      "endDate": "2025-01",
+      "summary": "Used AIMD to investigate how interlayer spacing, proton concentration, and hydrogen-bond environments affect proton transport in δ-MnO₂.",
+      "highlights": []
+    },
+    {
+      "position": "Bismuth-Based Catalysts for CO₂ Electroreduction",
+      "company": "Supervisor: Prof. Liqiang Mai",
+      "startDate": "2021-04",
+      "endDate": "2022-09",
+      "summary": "Led a national undergraduate innovation project on bismuth-based catalysts, including synthesis, electrochemical testing, characterization, and reconstruction analysis.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "Hongkong University of Science and Technology",
+      "institution": "The Hong Kong University of Science and Technology, Department of Chemistry",
       "area": "PhD in Chemistry (Scientific Computation)",
       "studyType": "",
-      "startDate": "2026",
-      "endDate": "",
+      "startDate": "2026-08",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "Peking University",
-      "area": "Master in Materials Physics and Chemistry",
+      "area": "Master's studies in Materials Physics and Chemistry",
       "studyType": "",
-      "startDate": "2023",
-      "endDate": "2026",
+      "startDate": "2023-09",
+      "endDate": "2026-06",
       "gpa": null,
       "courses": []
     },
@@ -48,13 +99,36 @@
       "institution": "Wuhan University of Technology",
       "area": "Bachelor of Engineering in Materials Science and Engineering",
       "studyType": "",
-      "startDate": "2019",
-      "endDate": "2023",
+      "startDate": "2019-09",
+      "endDate": "2023-06",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Computational Methods",
+      "keywords": [
+        "DFT",
+        "Ab initio molecular dynamics",
+        "VASP",
+        "Quantum ESPRESSO",
+        "Gaussian"
+      ]
+    },
+    {
+      "name": "Programming and AI",
+      "keywords": [
+        "Python",
+        "Machine learning",
+        "Deep learning",
+        "Natural language processing",
+        "LangGraph",
+        "FAISS",
+        "Retrieval-augmented generation"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "English",
@@ -79,14 +153,14 @@
       "name": "CO₂ Reduction Reaction"
     },
     {
-      "name": "Renewable Battery"
+      "name": "Lithium Battery Electrolytes and Solid-State Electrolytes"
     }
   ],
   "references": [],
   "publications": [
     {
       "name": "Polyphosphates-Based Cathode-Electrolyte Interphase for 4.65 V LiCoO₂",
-      "publisher": "Advanced Materials",
+      "publisher": "Advanced Materials, 38(22), e73065",
       "releaseDate": "2026-04-16",
       "website": "https://doi.org/10.1002/adma.73065",
       "summary": "Developing polyphosphates-based cathode-electrolyte interphase for high-voltage LiCoO₂ cathodes."

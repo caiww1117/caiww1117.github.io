@@ -8,7 +8,7 @@ date: 2026-04-16
 venue: 'Advanced Materials'
 paperurl: 'https://doi.org/10.1002/adma.73065'
 bibtexurl: 'https://doi.org/10.1002/adma.73065'
-citation: 'Hengyu Ren, Xiaohu Wang, Wenwei Cai, et al. Polyphosphates-Based Cathode-Electrolyte Interphase for 4.65 V LiCoO₂. Advanced Materials, 2026.'
+citation: 'Hengyu Ren, Xiaohu Wang, Wenwei Cai, et al. Polyphosphates-Based Cathode-Electrolyte Interphase for 4.65 V LiCoO₂. Advanced Materials, 2026, 38(22): e73065.'
 ---
 
 Developing polyphosphates-based cathode-electrolyte interphase for 4.65 V LiCoO₂ cathodes.

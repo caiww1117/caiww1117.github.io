@@ -11,28 +11,40 @@ redirect_from:
 
 Education
 ======
-* Peking University, School of Advanced Materials, 2023 Sep. – Now
-  * Ph.D. Student in Materials Physics and Chemistry
+* The Hong Kong University of Science and Technology, Department of Chemistry, 2026 Aug. – Present
+  * PhD Student in Chemistry (Scientific Computation)
+  * Supervisor: Prof. Lixue Cheng
+* Peking University, School of Advanced Materials, 2023 Sep. – 2026 Jun.
+  * Master's studies in Materials Physics and Chemistry
   * Director of the Propaganda Department of the Graduate Student Union (1 year)
 * Wuhan University of Technology, School of Materials Science and Engineering, 2019 Sep. – 2023 Jun.
   * B.Eng. in Materials Science and Engineering
 
 Research Experience
 ======
+* **Multi-Agent Electrolyte Design via Literature-Grounded Reasoning and Iterative Optimization** (2025 Nov. – Present)
+  * Supervisor: Prof. Lixue Cheng
+  * Developed an LLM-based platform for lithium battery electrolyte formulation design, integrating literature retrieval, expert-agent reasoning, and iterative refinement under user-defined constraints.
+  * Built a LangGraph workflow coordinating expert agents to propose, critique, and refine formulations, with a central coordinator managing constraints and performance assessments.
+  * Implemented hierarchical retrieval-augmented generation with FAISS, source tracking, and agent-specific access to literature.
+  * Designed an ionic-liquid bridge agent to translate evidence on coordination chemistry and ion transport into formulation guidance.
+  * Added persistent task memory and a React–FastAPI application for interactive design and literature questions.
+
 * **AI-Driven Discovery of High-Performance Solid-State Electrolytes** (2025 Jan. – Now)
-  * Supervisor: Prof. Feng Pan
-  * National Center for International Research of EV Power Battery and Materials
   * Constructed a comprehensive knowledge base for solid-state electrolytes using AI-powered pipeline
   * Fine-tuned DeBERTa v3 model to classify 115,000 papers, isolating 17,000 relevant articles
   * Developed information extraction system using Gemini 2.5 Pro to extract 97,000 material property records
+  * Standardized chemical formulas and property units, and flagged ambiguous entries for review
   * Architecting multi-objective optimization framework for de novo design of novel solid-state electrolytes
 
 * **Polarized Ni⁰-Niδ⁺ Catalysts for eCO₂RR** (2024 Apr. – 2025 May)
+  * Supervisor: Prof. Feng Pan; National Center for International Research of EV Power Battery and Materials
   * Employed AIMD simulations with slow-growth approach to investigate C−C coupling mechanisms
   * Revealed role of Ni polarization in enhancing CO₂ activation and mitigating poisoning effects
   * Extended findings to other metals (Fe, Rh, Pd, Co, Ru) for CO₂ electroreduction catalyst design
 
 * **Confined Proton Transport in Layered Manganese Oxide Electrodes** (2023 Dec. – 2025 Jan.)
+  * Supervisor: Prof. Feng Pan; National Center for International Research of EV Power Battery and Materials
   * Utilized AIMD simulations to study proton transportation in δ-MnO₂
   * Found that increased interlayer distances and proton concentrations lead to proton trapping
 
@@ -44,7 +56,7 @@ Research Experience
 
 Publications
 ======
-* **Polyphosphates-Based Cathode-Electrolyte Interphase for 4.65 V LiCoO₂**. Hengyu Ren, Xiaohu Wang, Wenwei Cai, et al. *Advanced Materials*, 2026. DOI:10.1002/adma.73065.
+* **Polyphosphates-Based Cathode-Electrolyte Interphase for 4.65 V LiCoO₂**. Hengyu Ren, Xiaohu Wang, Wenwei Cai, et al. *Advanced Materials*, 2026, 38(22): e73065. DOI:10.1002/adma.73065.
 * **Polarized Ni⁰-Niδ⁺ Catalysts Enable Asymmetric C–C Coupling for Long-Chain Hydrocarbons in Electrochemical CO₂ Reduction**. DING H#, CAI W#, YANG X, et al. *ACS Catalysis*, 2025, 15(11): 9793-9803. DOI:10.1021/acscatal.4c07353.
 * **Confined proton transport in water-containing layered manganese oxide electrodes**. CAI W#, PAN F*, LI S*. *Chinese Journal of Structural Chemistry*, 2025, 44(5): 100528. DOI:10.1016/j.cjsc.2025.100528.
 
@@ -63,6 +75,7 @@ Skills
 * **Computational Methods:** Density Functional Theory (DFT), Ab Initio Molecular Dynamics (AIMD)
 * **Software:** VASP, Quantum ESPRESSO, Gaussian
 * **Programming:** Python, Machine Learning, Deep Learning, Natural Language Processing
+* **AI Research Tools:** LangGraph, FAISS, Retrieval-Augmented Generation, LLM Multi-Agent Systems
 * **Languages:** English (IELTS 8.0), Chinese (Native)
 
 Research Interests
@@ -70,4 +83,4 @@ Research Interests
 * Computational Chemistry, Computational Materials Science
 * AI for Materials Discovery (Data-Driven Approaches)
 * CO₂ Reduction Reaction (eCO₂RR)
-* Renewable Battery and Solid-State Electrolytes
+* Lithium Battery Electrolyte Design and Solid-State Electrolytes
